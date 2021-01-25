@@ -1,0 +1,13 @@
+name: OneVsOne
+api: 3.15.2+dev
+version: 1.0
+author: EngincanErgunGG
+main: KurSkyTR\OneVsOne
+
+commands:
+  1vs1:
+    description: "1VS1 Katılmak için kullanabilirsin!"
+  onevsone:
+    description: "1VS1 Katılmak için kullanabilirsin!"
+  ayril:
+    description: "1VS1 den ayrılırsın."
